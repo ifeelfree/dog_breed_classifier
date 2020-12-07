@@ -2,6 +2,13 @@
 ![](dog_breed.jpg)
 
 ## Table of Contents
+  * [Project Overview](#project-overview)
+    + [Human Detection](#human-detection)
+    + [Dog Detection](#dog-detection)
+    + [Dog Breed Classifier](#dog-breed-classifier)
+  * [Project Installation](#project-installation)
+  * [Licence](#licence)
+
 
  
 
