@@ -10,7 +10,6 @@
   * [Licence](#licence)
 
 
- 
 
 ## Project Overview
 
@@ -40,6 +39,8 @@ We have tried three different architectures to train the dog breed classifier:
 - Inception3 Neural Network: we fine-tune the Inception3 Neural Network, and get a classification accuracy of 79.6651%. 
  
 ## Project Installation 
+
+### Docker
  
 I use Docker to host the development environment for `dog_app.ipynb` Jupyter Notebook. The docker image comes from `tensorflow/tensorflow:latest-gpu-jupyter`, and the host machine is Ubuntu 18.04. 
 
@@ -54,6 +55,19 @@ to set up the Jupyter Notebook server in Docker container.
 After that, in my local machine, I type `http://localhost:8888` in my explorer to access the Jupyter Notebook file `dog_app.ipynb`, and do experiments there. I install necessary libraries as the experiment goes, which can be found in the notebook. 
 
 Finally, I use `python -m nbconvert dog_app.ipynb --to html` to generate the report [dog_app.html](dog_app.html). 
+
+### Linux
+
+
+### Data 
+- [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+- [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+
+## Model
+- [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
+- [Inception 3 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
+
+
 
 ## Licence
 
