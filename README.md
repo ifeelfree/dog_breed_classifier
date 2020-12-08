@@ -7,8 +7,15 @@
     + [Dog Detection](#dog-detection)
     + [Dog Breed Classifier](#dog-breed-classifier)
   * [Project Installation](#project-installation)
+    + [Code and data](#code-and-data)
+    + [Development environment setup](#development-environment-setup)
+      - [(Optional) Docker](#-optional--docker)
+      - [(Optional) Linux](#-optional--linux)
+      - [(Optionl) Other platforms](#-optionl--other-platforms)
+    + [Jupter Notebook](#jupter-notebook)
   * [Licence](#licence)
 
+ 
 
 
 ## Project Overview
