@@ -22,7 +22,13 @@
 
 The purpose of this project is to use Deep Neural Network to classify the dog breed if the given picture happens to be a dog. In order to make the project funny, if the given picture comes from a person, we also want to know what kind of dogs this person look like. 
 
-A full and detailed report of this project can be found in Medium blog [Dog Breed Classier](https://majianglin2003.medium.com/dog-breed-classier-26977185f5e0)
+**For Udacity Mentors**
+
+For Udacity Data Scientist reviewers, please check [Dog Breed Classifier Project Summary](https://majianglin2003.medium.com/dog-breed-classifier-project-summary-93c35a499e91) Medium blog, and this blog keeps **Data Scientist Capstone** project specification in mind, and is used for the project's evaluation. 
+
+**For Regular Readers**
+
+A full and detailed report of this project can be found in Medium blog [Dog Breed Classier](https://majianglin2003.medium.com/dog-breed-classier-26977185f5e0), and this blog targets on regular readers. 
 
 The whole structure of the project is given by Udacity instructors, so please check [LICENCE.txt](LICENCE.txt) if you want to re-use some codes in this project. 
 
